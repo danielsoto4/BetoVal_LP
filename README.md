@@ -1,4 +1,6 @@
-Cube & Manipulation Sliders Landing Page para el artista Beto Val
+Cube & Manipulation Sliders Landing Page para el artista Beto Val.
+
+
 Este proyecto presenta una página web interactiva que utiliza Swiper.js para crear impresionantes deslizadores de imágenes y texto, con efectos visuales únicos. La página está orientada a la exhibición de contenido artístico y visual, y está diseñada con una estética moderna, con elementos de navegación simples y atractivos.
 
 Características
